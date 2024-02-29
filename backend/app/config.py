@@ -26,5 +26,3 @@ class Config(object):
     DB_PORT                                 = environ.get('DB_PORT') 
 
     PROPAGATE_EXCEPTIONS                    = False
- 
- 

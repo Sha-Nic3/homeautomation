@@ -3,7 +3,9 @@
 // Time generated: 30/01/2024 14:25:33
 // Dimensions    : 104x103 pixels
 // Size          : 21,424 Bytes
-
+#ifndef ARDUINO_H
+#include <Arduino.h>
+#endif 
 
 const uint16_t   lockclose[0x29D8] PROGMEM ={
 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF,   // 0x0010 (16)

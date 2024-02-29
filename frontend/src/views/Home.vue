@@ -6,8 +6,8 @@
 
       <div class="text-body-2 font-weight-light mb-n1">Welcome to</div>
 
-      <h1 class="text-h2 font-weight-bold">IoT Development Platform</h1>
-      <div class="text-body-1 font-weight-light mt-1">Internet of Things</div>
+      <h1 class="text-h2 font-weight-bold">Elet2415</h1>
+      <div class="text-body-1 font-weight-light mt-1">Practices in Electronics II</div>
  
 
       <div class="py-14" />
